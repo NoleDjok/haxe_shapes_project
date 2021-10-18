@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="1,8,9" type="Haxe">
+    <CLASSES>
+      <root url="file://C:/HaxeToolkit/haxe/lib/actuate/1,8,9" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/box2d/1,2,3" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/haxe-loader/0,7,4" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/haxe-loader/0,9,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/hxcpp/4,2,1" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/layout/1,2,1" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/lime-samples/7,0,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/lime/7,9,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl-native/1,4,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl-samples/8,7,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl-tools/1,0,10" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl/9,1,0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/HaxeToolkit/haxe/lib/actuate/1,8,9" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/box2d/1,2,3" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/haxe-loader/0,7,4" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/haxe-loader/0,9,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/hxcpp/4,2,1" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/layout/1,2,1" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/lime-samples/7,0,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/lime/7,9,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl-native/1,4,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl-samples/8,7,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl-tools/1,0,10" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl/9,1,0" />
+    </SOURCES>
+  </library>
+</component>
